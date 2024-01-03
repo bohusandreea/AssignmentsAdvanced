@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ass_advanced.iml" filepath="$PROJECT_DIR$/.idea/ass_advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitii_assigment1/exercitii_assigment1.iml" filepath="$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitii_assigment1/exercitii_assigment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitiuAbstractClass/exercitiuAbstractClass.iml" filepath="$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitiuAbstractClass/exercitiuAbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitiuFavoriteClasses/exercitiuFavoriteClasses.iml" filepath="$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitiuFavoriteClasses/exercitiuFavoriteClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitiuGenericClass/exercitiuGenericClass.iml" filepath="$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitiuGenericClass/exercitiuGenericClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitiuPoint/exercitiuPoint.iml" filepath="$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitiuPoint/exercitiuPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitiuStudent/exercitiuStudent.iml" filepath="$PROJECT_DIR$/Java ADVANCED - Getting used to Java basics/exercitiuStudent/exercitiuStudent.iml" />
+    </modules>
+  </component>
+</project>
